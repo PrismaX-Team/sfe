@@ -77,4 +77,13 @@ SFE is released under the MIT License. See [LICENSE](./LICENSE) for more details
 If you find SFE useful in your research, please consider citing the following paper:
 
 ```bibtex
+@misc{zhou2025scientistsexamprobingcognitive,
+      title={Scientists' First Exam: Probing Cognitive Abilities of MLLM via Perception, Understanding, and Reasoning}, 
+      author={Yuhao Zhou and Yiheng Wang and Xuming He and Ruoyao Xiao and Zhiwei Li and Qiantai Feng and Zijie Guo and Yuejin Yang and Hao Wu and Wenxuan Huang and Jiaqi Wei and Dan Si and Xiuqi Yao and Jia Bu and Haiwen Huang and Tianfan Fu and Shixiang Tang and Ben Fei and Dongzhan Zhou and Fenghua Ling and Yan Lu and Siqi Sun and Chenhui Li and Guanjie Zheng and Jiancheng Lv and Wenlong Zhang and Lei Bai},
+      year={2025},
+      eprint={2506.10521},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2506.10521}, 
+}
 ```
