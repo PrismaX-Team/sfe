@@ -16,12 +16,14 @@
 
 *Latest News* 🔥
 
-[Latest] We officially released SFE! SFE is designed to evaluate the scientific cognitive capacities of MLLMs through three cognitive levels: **scientific signal perception**, **scientific attribute understanding**, and **scientific comparative reasoning**.
+[Latest] We are officially integrated by [VLMEvalKit](https://github.com/open-compass/VLMEvalKit). [Intern-S1](https://github.com/InternLM/Intern-S1), the most advanced open-source multimodal reasoning model to date, benchmarked on SFE.
 
 <details>
 <summary>Unfold to see more details.</summary>
-<br>
+<be>
 
+- [2025/07] [Intern-S1](https://github.com/InternLM/Intern-S1), the most advanced open-source multimodal reasoning model to date, benchmarked on SFE.
+- [2025/07] We are officially integrated by [VLMEvalKit](https://github.com/open-compass/VLMEvalKit).
 - [2025/06] We officially released SFE! SFE is designed to evaluate the scientific cognitive capacities of MLLMs through three cognitive levels: **scientific signal perception**, **scientific attribute understanding**, and **scientific comparative reasoning**.
 
 </details>
