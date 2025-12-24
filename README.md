@@ -21,6 +21,7 @@
 <details>
 <summary>Unfold to see more details.</summary>
 <be>
+  
 - [2025/12] [Seed-1.8](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/research/Seed-1.8-Modelcard.pdf), the model with native support for generalized real-world agency, is benchmarked on SFE.
 - [2025/07] [Intern-S1](https://github.com/InternLM/Intern-S1), the most advanced open-source multimodal reasoning model to date, benchmarked on SFE.
 - [2025/07] We are officially integrated by [VLMEvalKit](https://github.com/open-compass/VLMEvalKit).
